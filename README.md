@@ -4,6 +4,6 @@ The mods use something called BepInEx to load the mods into the game, the guide 
 
 You only need to do steps 1-3 but if you want to change some of the default configurations you can do so with step 4.
 
-In each folder there is a readme with the description of the mod and a dll file (the mod) which you need to download and move into the plugin folder of BepInEx.
+In each folder there is a readme with the description of the mod and a dll file (the mod) or a folder with the mod and asset bundle if the mod changes models (mod readme will specify as well) which you need to download and move into the plugin folder of BepInEx.
 
 Currently the only way to tell if I updated a mod is by checking back here, eventually I may add a way for the mods to check what the latest version on here is and suggest an update but that might not happen.
